@@ -1,0 +1,9 @@
+Movie Data Analysis - Key Insights 📊🎬
+🔸 High budget doesn’t always mean high revenue.
+🔸 Sci-Fi, Marvel, and Animated movies tend to perform the best.
+🔸 Budget and revenue have a weak correlation.
+🔸 Some low and mid-rated movies earned surprisingly well.
+🔸 High-budget films don't always get higher ratings.
+🔸 Movies with a duration of 100-200 minutes perform better on average.
+🔸 English-language movies dominate the global box office.
+🔸 Big-budget movies are rare but significantly impact total industry revenue.
